@@ -11,7 +11,7 @@ from __future__ import print_function
 import os
 import matplotlib.pyplot as plt
 import tensorflow as tf
-from PIL import Image
+from Pillow import Image
 import numpy
 import tensorflow as tf
 
